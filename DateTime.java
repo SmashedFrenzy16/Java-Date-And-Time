@@ -11,6 +11,8 @@ public class Main {
     
     String finalFormat = dateTimeObj.format(formattedObj);
     
+    System.out.println("Date and time currently: " + finalFormat)
+    
     
   
   
